@@ -1,0 +1,8 @@
+{
+  "name": "HDB Direct",
+  "description": "A marketplace connecting HDB buyers and sellers with flexible search tools and data analytics for smarter property decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

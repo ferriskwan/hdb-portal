@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-warm-50: #fffaf7;
+  --color-warm-100: #ffebd3;
+  --color-warm-200: #ffd1a6;
+  --color-warm-300: #ffb16b;
+  --color-warm-400: #ff8e32;
+  --color-warm-500: #fa6c04;
+  --color-warm-600: #eb5300;
+  --color-warm-700: #c33a02;
+  --color-warm-800: #9b2c08;
+  --color-warm-900: #7c260b;
+}
+
+body {
+  background-color: var(--color-warm-50);
+}
